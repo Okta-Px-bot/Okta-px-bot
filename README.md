@@ -60,7 +60,9 @@
 <img alt="Wwatsapp" title="follow me <3" src="https://img.shields.io/badge/-whatsapp-E4405F?style=flat&logo=Whatsapp&logoColor=green"/></a>
     </p>
 
+## Thanks
+
 <p align="center">
 
-  <thumbnail src="https://telegra.ph/file/4bbd6196fd0d39cbd68d8.mp4">
+  <a src="https://telegra.ph/file/4bbd6196fd0d39cbd68d8.mp4"></a>
   </p>
