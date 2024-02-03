@@ -51,5 +51,5 @@
 
 <a href="https://wa.me/6288994107174">
 
-<img alt="Wwatsapp" title="follow me <3" src="https://img.shields.io/badge/-whatsapp-E4405F?style=flat&logo=Whatsapp&logoColor=green"/></a>
+<img alt="Wwatsapp" title="follow me <3" src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=darkgreen&labelColor=white&link=https%3A%2F%2Fwa.me%2F6288994107174"/></a>
     </p>
