@@ -4,10 +4,13 @@
 
 <p align="center">
     <img src="https://telegra.ph/file/ff129cf44361a0338c06c.jpg" width="50%" style="margin-left: auto;margin-right: auto;display: block;">
+
+ 
+   <img alig src="https://raw.githubusercontent.com/YanzBotz/YanzBotz/main/code.gif" width="50%"/>
 </p>
 
 
-## 🛠 &nbsp;Tech Stacks
+# 🛠 &nbsp;Tech Stacks
 
 ![Node.js](https://img.shields.io/badge/-Node.js-280137?style=social&logo=node.js)
 
@@ -19,39 +22,24 @@
 
 ![replit](https://img.shields.io/badge/-replit-280137?style=social&logo=replit)
 
-## ⚙️ &nbsp;GitHub Analytics
+# ⚙️ &nbsp;GitHub Analytics
 
 <p align="center" class="d-flex justify-content-center align-items-center">
 
   <a href="https://github.com/Okta-Px-bot">
 
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Okta-Px-bot&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Okta-Px-bot&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
 
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Okta-Px-bot&show_icon=true&layout=compact&langs_count=8&theme=light"/>
+  <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Okta-Px-bot&show_icon=true&layout=compact&langs_count=8&theme=light"/>
 
   </a>
 
 </p>
 
-## 🤝🏻 &nbsp;Connect with Me
+# 🤝🏻 &nbsp;Connect with Me
 
-<p align="center"> 
-  
-  <img alig src="https://raw.githubusercontent.com/YanzBotz/YanzBotz/main/code.gif" width="50%"/>
-</p>
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=plastic&logo=instagram&logoColor=white">](https://www.instagram.com/mrbee.1945/)
 
+[<img src="https://img.shields.io/badge/whatsapp-%808080.svg?&style=plastic&logo=whatsapp&logoColor=white">](https://wa.me/6285150650411)
 
-
-<p align="left">
-
-<a href="https://www.instagram.com/mrbee.1945">
-  
-  <img alt="Instagram" title="follow me <3" src="https://img.shields.io/badge/-instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=lightred&labelColor=white&link=https%3A%2F%2Fwww.instagram.com%2Fmrbee.1945"/></a>
-    </p>
-    
-<p align="left">
-
-<a href="https://wa.me/6285150650411">
-
-<img alt="Wwatsapp" title="follow me <3" src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=lightgreen&labelColor=white&link=https%3A%2F%2Fwa.me%2F6285150650411"/></a>
-    </p>
+[<img src="https://img.shields.io/badge/-github-%23E4405F.svg?&style=plastic&logo=github">](https://github.com/Okta-px-bot/)
