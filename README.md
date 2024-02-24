@@ -38,8 +38,8 @@
 
 # 🤝🏻 &nbsp;Connect with Me
 
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=plastic&logo=instagram&logoColor=white">](https://www.instagram.com/mrbee.1945/)
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=social&logo=instagram">](https://www.instagram.com/mrbee.1945/)
 
-[<img src="https://img.shields.io/badge/whatsapp-%808080.svg?&style=plastic&logo=whatsapp&logoColor=white">](https://wa.me/6285150650411)
+[<img src="https://img.shields.io/badge/whatsapp-%808080.svg?&style=social&logo=whatsapp">](https://wa.me/6285150650411)
 
-[<img src="https://img.shields.io/badge/-github-%23E4405F.svg?&style=plastic&logo=github">](https://github.com/Okta-px-bot/)
+[<img src="https://img.shields.io/badge/-github-%23E4405F.svg?&style=social&logo=github">](https://github.com/Okta-px-bot/)
