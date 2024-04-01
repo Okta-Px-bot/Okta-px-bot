@@ -3,12 +3,15 @@
 
 
 <p align="center">
-    <img src="https://telegra.ph/file/ff129cf44361a0338c06c.jpg" width="50%" style="margin-left: auto;margin-right: auto;display: block;">
-
- 
-   <img alig src="https://raw.githubusercontent.com/YanzBotz/YanzBotz/main/code.gif" width="50%"/>
+    <img src="https://telegra.ph/file/ff129cf44361a0338c06c.jpg" width="30%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=964B00&width=456&lines=OKTA+PX+MD;CREATED+BY+BAGUS+OKTA" alt="Typing SVG" /></p>
+
+<p align="center"> 
+   <img alig src="https://raw.githubusercontent.com/YanzBotz/YanzBotz/main/code.gif" width="50%"/>
+</p>
 
 # 🛠 &nbsp;Tech Stacks
 
